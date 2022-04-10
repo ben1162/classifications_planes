@@ -1,0 +1,18 @@
+IMAGE_WIDTH : 128
+IMAGE_HEIGHT : IMAGE_WIDTH
+IMAGE_DEPTH : 3
+
+DATA_DIR_TRAIN_MANUFACTURER : /content/dataset/data/images_manufacturer_train.txt
+DATA_DIR_TRAIN_FAMILY : /content/dataset/data/images_family_train.txt
+DATA_DIR_TRAIN_VARIANT : /content/dataset/data/images_variant_train.txt
+
+DATA_DIR_TEST_MANUFACTURER : /content/dataset/data/images_manufacturer_test.txt
+DATA_DIR_TEST_FAMILY : /content/dataset/data/images_family_test.txt
+DATA_DIR_TEST_VARIANT : /content/dataset/data/images_variant_test.txt
+
+
+TARGET_NAME : 'manufacturer'
+TARGET_NAME2 : 'family'
+TARGET_NAME3 : 'variant'
+
+
